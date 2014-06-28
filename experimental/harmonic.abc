@@ -1,0 +1,16 @@
+%%beginps
+/head-small {gsave T 40 rotate 0.6 dup scale -1 0 breve grestore}!
+%%endps
+%%deco head-small 0 head-small 0 0 0
+
+X:1
+T:???
+C:T. S. Macdonald
+L:1/8
+M:C|
+K:Am
+N:The artificial harmonics should be played with the thumb (high notes) and pinky (low notes), the hand being on the side of the fingerboard opposite its usual location
+[A,!head-small!A]2 [B,!head-small!B]2  [D!head-small!d]4 | [D!head-small!d]8 |
+[E!head-small!e]3 [D!head-small!d] [E!head-small!e] [A,!head-small!A]3 | [A,!head-small!A]8 |
+[D!head-small!d]3 [B,!head-small!B] [D!head-small!d] [G,!head-small!G]3 | [G,!head-small!G]8 |
+[B,!head-small!B]4 [A,!head-small!A]4 | [A,!head-small!A]8 ||
